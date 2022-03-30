@@ -1,2 +1,2 @@
 # haproxy
-Load balancer for docker
+Load balancer for docker using Haproxy
